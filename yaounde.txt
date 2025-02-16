@@ -1,2 +1,4 @@
 Makepe 
-Dakar 
+Dakar
+bafoussam
+Bangoua 
