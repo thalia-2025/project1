@@ -1,4 +1,6 @@
 Makepe 
 Dakar 
 Bonaberi
-Logpom 
+Logpom
+Balla 2
+Etoudi 
